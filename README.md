@@ -18,7 +18,7 @@ Feel free to explore and connect!
 ## 🧰 Skills & Tools
 
 - Languages: Python, Java, JavaScript
-- Tools: Git and VS Code, etc.
+- Tools: Git and VS Code.
 
 ---
 
