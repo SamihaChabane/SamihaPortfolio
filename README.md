@@ -37,8 +37,8 @@ Here are some highlighted projects:
 
 ## 📄 Resume
 
-📥 [Download my resume](link-to-your-resume)  
-📧 Contact: your.email@example.com  
+📥 [Download my resume](files/Samiha Chabane Resume.pdf)  
+📧 Contact: chaban.samiha@gmail.com  
 🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
