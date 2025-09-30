@@ -15,19 +15,6 @@ Feel free to explore and connect!
 
 ---
 
-## 🚀 Projects
-
-Here are some highlighted projects:
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Project Name](link) | One-liner about what it does | e.g., React, Node.js, MongoDB |
-| [Another Project](link) | Short description | Python, Flask, PostgreSQL |
-
-> 👉 Check the `projects/` folder for more.
-
----
-
 ## 🧰 Skills & Tools
 
 - Languages: Python, Java, JavaScript
@@ -39,7 +26,7 @@ Here are some highlighted projects:
 
 📥 [Download my resume](files/Samiha Chabane Resume.pdf)  
 📧 Contact: chaban.samiha@gmail.com  
-🌐 Portfolio Website: [yourwebsite.com](https://samihachabane.github.io/SamihaPortfolio/)  
+🌐 Portfolio Website: [My Portfolio](https://samihachabane.github.io/SamihaPortfolio/)  
 
 ---
 
