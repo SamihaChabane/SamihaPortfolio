@@ -45,8 +45,6 @@ Here are some highlighted projects:
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/samiha-c-800071279/)
 
-Thanks for stopping by! Feel free to ⭐️ or fork any project that interests you.
+Thanks for stopping by! 
