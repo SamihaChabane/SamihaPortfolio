@@ -24,7 +24,7 @@ Feel free to explore and connect!
 
 ## 📄 Resume
 
-📥 [Download my resume]files/Samiha Chabane Resume.pdf 
+📥 [Download my resume](files/Samiha Chabane Resume.pdf).
 📧 Contact: chaban.samiha@gmail.com  
 🌐 Portfolio Website: [My Portfolio](https://samihachabane.github.io/SamihaPortfolio/)  
 
