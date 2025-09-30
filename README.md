@@ -39,7 +39,7 @@ Here are some highlighted projects:
 
 📥 [Download my resume](files/Samiha Chabane Resume.pdf)  
 📧 Contact: chaban.samiha@gmail.com  
-🌐 Portfolio Website: [yourwebsite.com](https://yourwebsite.com)  
+🌐 Portfolio Website: [yourwebsite.com](https://samihachabane.github.io/SamihaPortfolio/)  
 
 ---
 
